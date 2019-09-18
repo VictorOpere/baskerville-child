@@ -60,7 +60,7 @@
 
 		<p class="credits-left fleft">
 		
-			Copyright &copy; <?php echo date("Y") ?> <a href="<?php echo home_url(); ?>" title="<?php bloginfo( 'name' ); ?>"><?php bloginfo( 'name' ); ?></a> <span> &mdash; <?php printf( __( 'ReDesigned By <a href="%s">Certified Vic</a>', 'baskervillechild'), 'https://karavic.com' ); ?></span>
+			Copyright &copy; <?php echo date("Y") ?> <a href="<?php echo home_url(); ?>" title="<?php bloginfo( 'name' ); ?>"><?php bloginfo( 'name' ); ?></a> <span> &mdash; <?php printf( __( 'ReDesigned By <a href="%s" target="_blank">Certified Vic</a>', 'baskervillechild'), 'https://karavic.com/about/' ); ?></span>
 		
 		</p>
 		
